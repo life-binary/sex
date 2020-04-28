@@ -4,3 +4,5 @@
 
 # 忽略 该文件夹下所有文件
 linux_command/
+
+/.DS_Store
